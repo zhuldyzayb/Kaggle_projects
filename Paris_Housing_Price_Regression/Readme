@@ -1,0 +1,3 @@
+This file consists codes for Kaggle Regression with a Tabular Paris Housing Price Dataset project. 
+All the details can be found in through the link: https://www.kaggle.com/competitions/playground-series-s3e6
+The folder contains two files: main.py (PyCharm python file with codes) and a notebook from kaggle. Both contain identical data, just in two different formats.
